@@ -1,3 +1,6 @@
+# Backend Repo: https://github.com/jjin286/sharebnb
+Run backend before running npm start with node server.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
