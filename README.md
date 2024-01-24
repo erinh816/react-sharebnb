@@ -1,5 +1,6 @@
-# Backend Repo: https://github.com/jjin286/sharebnb
-Run backend before running npm start with node server.js
+# Backend Repo: 
+https://github.com/jjin286/sharebnb
+Run backend with `node server.js` before running `npm start` 
 
 # Getting Started with Create React App
 
